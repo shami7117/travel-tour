@@ -1,7 +1,7 @@
 'use client'
 
 import React from "react";
-import Footer from "@/Components/Footer";
+import Footer from "@/components/Footer/index";
 import BannerHeader from "@/components/BannerHeader/index"
 import { useState } from "react";
 
